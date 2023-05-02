@@ -16,9 +16,9 @@ The app design is created using Figma and incorporates icons from Material Desig
 -Figma built-in animation.<br>
 
 <h3>Future improvements:</h3>
-- Add more features.
-
-# Overall, this project demonstrates the design and implementation of a mobile application for Recipes, incorporating modern design principles, animations, and user-friendly features to create an engaging and intuitive experience for users. Listed below the application screens and a recorded demo.
+- Add more features.<br>
+<br>
+-> Overall, this project demonstrates the design and implementation of a mobile application for Recipes, incorporating modern design principles, animations, and user-friendly features to create an engaging and intuitive experience for users. Listed below the application screens and a recorded demo.
 
 # Here is the simple UI design of the Recipe App
 
@@ -33,4 +33,8 @@ The app design is created using Figma and incorporates icons from Material Desig
 <img src="img_girl.jpg"></img>
 </div>
 
+# Project  Demo
 
+<video controls autoplay>
+      <source src="/build/videos/arcnet.io(7-sec).mp4" type=video/mp4>
+</video>
