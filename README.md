@@ -24,13 +24,13 @@ The app design is created using Figma and incorporates icons from Material Desig
 
 <div>
 <h2> The Splash Screen </h2>
-<img src="img_girl.jpg"></img>
+<img src="Splash Screen.png"></img>
 <br>
 <h2> The Overview Screen </h2>
-<img src="img_girl.jpg"></img>
+<img src="Overview.png"></img>
 <br>
 <h2> The Detailed Screen </h2>
-<img src="img_girl.jpg"></img>
+<img src="Detailed Screen.png"></img>
 </div>
 
 # Project  Demo
