@@ -22,15 +22,17 @@ The app design is created using Figma and incorporates icons from Material Desig
 
 # Here is the simple UI design of the Recipe App
 
-<div>
-<h2> The Splash Screen </h2>
-<img src="Splash Screen.png"></img>
-<br>
-<h2> The Overview Screen </h2>
-<img src="Overview.png"></img>
-<br>
+<div  align="center">
+<h2 > The Splash Screen </h2>
+<img  src="Splash Screen.png"></img>
+</div>
+<div align="center">
+<h2 > The Overview Screen </h2>
+<img  src="Overview.png"></img>
+</div>
+<div  align="center">
 <h2> The Detailed Screen </h2>
-<img src="Detailed Screen.png"></img>
+<img  src="Detailed Screen.png"></img>
 </div>
 
 # Project  Demo
