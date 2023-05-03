@@ -34,7 +34,11 @@ The app design is created using Figma and incorporates icons from Material Desig
 </div>
 
 # Project  Demo
-
+<div align="center">
 <video controls autoplay>
-      <source src="/build/videos/arcnet.io(7-sec).mp4" type=video/mp4>
+      <source src="recipe_app_demo.mp4" type=video/mp4>
 </video>
+
+https://user-images.githubusercontent.com/131768702/236004082-b6c3d6a6-5fd2-4f22-933f-a03d51c06102.mp4
+</div>
+
